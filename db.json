@@ -14,19 +14,21 @@
       "name": "Wesley Pittman",
       "action_title": "Gold, Bronze #5201",
       "activity": "+80 points",
-      "date": "Dec 4, 2019"
+      "date": "Dec 4, 2019",
+      "filter": "Gold",
     },
     {
       "index": "2",
       "name": "Grace Hodge",
-      "action_title": "Gold, Bronze #1948",
+      "action_title": "Bronze #1948",
       "activity": "+44 points",
-      "date": "Dec 4, 2019"
+      "date": "Dec 4, 2019",      
+      "filter": "Silver"
     },
     {
       "index": "3",
       "name": "Bradley Mitchell",
-      "action_title": "Gold, Bronze #16397",
+      "action_title": "Bronze #16397",
       "activity": "+48 points",
       "date": "Dec 4, 2019"
     },
