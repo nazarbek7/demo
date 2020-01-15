@@ -1,20 +1,4 @@
 {
-  "earning": [
-    {
-    "index": 1,
-    "name": "Gary Conner",
-    "action_title": "Discount",
-    "activity": "+46 points",
-    "date": "Jan 14, 2020"
-    },
-    {
-    "index": 2,
-    "name": "Sidney Olsen",
-    "action_title": "Discount",
-    "activity": "+13 points",
-    "date": "Jan 14, 2020"
-    }
-  ],
   "activity" : [
     {
     "index": "1",
