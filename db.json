@@ -2,229 +2,229 @@
   "earning": [
     {
     "index": 1,
-    "name": "Kenneth Barber",
-    "action_title": "35% discount",
-    "activity": "+91 points",
-    "surname": "Little"
+    "name": "Gary Conner",
+    "action_title": "Discount",
+    "activity": "+46 points",
+    "date": "Jan 14, 2020"
     },
     {
     "index": 2,
-    "name": "Darlene Mack",
-    "action_title": "15% discount",
-    "activity": "+4 points",
-    "surname": "Kaplan"
+    "name": "Sidney Olsen",
+    "action_title": "Discount",
+    "activity": "+13 points",
+    "date": "Jan 14, 2020"
     },
     {
     "index": 3,
-    "name": "Toni Little",
-    "action_title": "14% discount",
-    "activity": "+99 points",
-    "surname": "Wu"
+    "name": "Leah Nichols",
+    "action_title": "Discount",
+    "activity": "+8 points",
+    "date": "Jan 14, 2020"
     },
     {
     "index": 4,
-    "name": "Jennifer Crews",
-    "action_title": "22% discount",
-    "activity": "+33 points",
-    "surname": "Bray"
+    "name": "Joanna Berger",
+    "action_title": "Discount",
+    "activity": "+36 points",
+    "date": "Jan 14, 2020"
     },
     {
     "index": 5,
-    "name": "Harold O",
-    "action_title": "18% discount",
-    "activity": "+9 points",
-    "surname": "Thomas"
-    },
-    {
-    "index": 6,
-    "name": "Jennifer Schwartz",
-    "action_title": "8% discount",
-    "activity": "+62 points",
-    "surname": "McKinney"
-    },
-    {
-    "index": 7,
-    "name": "Sue Bolton",
-    "action_title": "32% discount",
-    "activity": "+63 points",
-    "surname": "McMillan"
-    },
-    {
-    "index": 8,
-    "name": "Betty Willis",
-    "action_title": "43% discount",
-    "activity": "+28 points",
-    "surname": "Lowry"
-    },
-    {
-    "index": 9,
-    "name": "Jesse Chung",
-    "action_title": "42% discount",
-    "activity": "+26 points",
-    "surname": "O"
-    },
-    {
-    "index": 10,
-    "name": "Joanna Daniel",
-    "action_title": "8% discount",
-    "activity": "+94 points",
-    "surname": "Creech"
+    "name": "Renee Byers",
+    "action_title": "Discount",
+    "activity": "+21 points",
+    "date": "Jan 14, 2020"
     }
   ],
     "activity" : [
     {
     "index": "1",
     "name": "Wesley Pittman",
-    "action": "Gold, Bronze #5201",
+    "action_title": "Gold, Bronze #5201",
     "activity": "+80 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "2",
     "name": "Grace Hodge",
-    "action": "Gold, Bronze #1948",
+    "action_title": "Gold, Bronze #1948",
     "activity": "+44 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "3",
     "name": "Bradley Mitchell",
-    "action": "Gold, Bronze #16397",
+    "action_title": "Gold, Bronze #16397",
     "activity": "+48 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "4",
     "name": "Ernest Scarborough",
-    "action": "Gold, Bronze #31327",
+    "action_title": "Gold, Bronze #31327",
     "activity": "+41 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "5",
     "name": "Dennis Morris",
-    "action": "Gold, Bronze #38664",
+    "action_title": "Gold, Bronze #38664",
     "activity": "+37 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "6",
     "name": "Allen Banks",
-    "action": "Bronze",
+    "action_title": "Bronze",
     "activity": "+42 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "7",
     "name": "Alan Wiley",
-    "action": "Gold",
+    "action_title": "Gold",
     "activity": "+55 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "8",
     "name": "Shannon Walter",
-    "action": "Gold, Bronze #2994",
+    "action_title": "Gold, Bronze #2994",
     "activity": "+37 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "9",
     "name": "Allan Shaffer",
-    "action": "Gold, Bronze #15314",
+    "action_title": "Gold, Bronze #15314",
     "activity": "+49 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "10",
     "name": "Keith Hall",
-    "action": "Gold, Bronze #34768",
+    "action_title": "Gold, Bronze #34768",
     "activity": "+59 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "11",
     "name": "Eleanor Nance",
-    "action": "Gold, Bronze #31430",
+    "action_title": "Discount",
     "activity": "+2 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "12",
     "name": "Toni Wilkerson",
-    "action": "Gold, Bronze #2242",
+    "action_title": "Gold",
     "activity": "+66 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "13",
     "name": "Marguerite Levine",
-    "action": "Gold, Bronze #33296",
+    "action_title": "Gold, Bronze #33296",
     "activity": "+51 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "14",
     "name": "Marcus Boyd",
-    "action": "Gold, Bronze #28320",
+    "action_title": "Gold, Bronze #28320",
     "activity": "+14 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "15",
     "name": "Ronnie McKenna",
-    "action": "Gold, Bronze #3488",
+    "action_title": "Silver",
     "activity": "+30 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "16",
     "name": "Alison Dickerson",
-    "action": "Gold, Bronze #3390",
+    "action_title": "Discount,
     "activity": "+81 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "17",
     "name": "Vanessa Field",
-    "action": "Gold, Bronze #23672",
+    "action_title": "Gold, Bronze #23672",
     "activity": "+14 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "18",
     "name": "Darlene Nash",
-    "action": "Gold, Bronze #17948",
+    "action_title": "Silver",
     "activity": "+59 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "19",
     "name": "Tina Knowles",
-    "action": "Gold, Bronze #17335",
+    "action_title": "Gold",
     "activity": "+81 points",
     "date": "Dec 4, 2019"
     },
     {
     "index": "20",
     "name": "Emily Walter",
-    "action": "Gold, Bronze #25072",
+    "action_title": "Silver",
     "activity": "+10 points",
     "date": "Dec 4, 2019"
     },
       {
     "index": "21",
     "name": "Scott McTominay",
-    "action": "Gold, Bronze #17435",
+    "action_title": "Gold, Bronze #17435",
     "activity": "+81 points",
     "date": "Jan 6, 2019"
     },
     {
     "index": "22",
     "name": "Scott McTominay",
-    "action": "Gold, Bronze #25077",
+    "action_title": "Gold",
     "activity": "+1100 points",
     "date": "Jan 14, 2019"
+    },
+    {
+    "index": 1,
+    "name": "Roy Weinstein",
+    "action_title": "Bronze",
+    "activity": "+167 points",
+    "date": "Jan 15, 2020"
+    },
+    {
+    "index": 2,
+    "name": "Rita Dickinson",
+    "action_title": "Bronze",
+    "activity": "+2550 points",
+    "date": "Jan 15, 2020"
+    },
+    {
+    "index": 3,
+    "name": "Eva Scarborough",
+    "action_title": "Bronze",
+    "activity": "+6722 points",
+    "date": "Jan 15, 2020"
+    },
+    {
+    "index": 4,
+    "name": "Brenda Nelson",
+    "action_title": "Bronze",
+    "activity": "+6412 points",
+    "date": "Jan 15, 2020"
+    },
+    {
+    "index": 5,
+    "name": "Beth Crane",
+    "action_title": "Bronze",
+    "activity": "+3112 points",
+    "date": "Jan 15, 2020"
     }
   ]
 }
