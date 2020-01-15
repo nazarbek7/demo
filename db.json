@@ -1,4 +1,12 @@
 {
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "activity": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   "activity" : [
     {
       "index": "1",
@@ -189,5 +197,9 @@
       "activity": "+3112 points",
       "date": "Jan 15, 2020"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
   ]
 }
