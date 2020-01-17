@@ -8,11 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "activity": {
+  "activity1": {
     "page": 1,
     "activities": []
   },
-  "activity": {
+  "activity2": {
     "page": 2,
     "activities": [
       {
