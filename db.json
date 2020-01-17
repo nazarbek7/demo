@@ -8,13 +8,13 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "activity?page=1": {
+  "activity": {
     "page": 1,
-    "activity": []
+    "activities": []
   },
-  "activity?page=2": {
+  "activity": {
     "page": 2,
-    "activity": [
+    "activities": [
       {
         "index": "1",
         "name": "Wesley Pittman",
