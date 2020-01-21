@@ -59,6 +59,41 @@
         "action_title": "Gold",
         "activity": "+55 points",
         "date": "Dec 4, 2019"
+      },
+      {
+        "index": "23",
+        "name": "Zinedin Zidan",
+        "action_title": "15% discount",
+        "activity": "+167 points",
+        "date": "Jan 15, 2020"
+      },
+      {
+        "index": "24",
+        "name": "Rita Dickinson",
+        "action_title": "10% discount",
+        "activity": "+2550 points",
+        "date": "Jan 15, 2020"
+      },
+      {
+        "index": "25",
+        "name": "Eva Scarborough",
+        "action_title": "Gold",
+        "activity": "+6722 points",
+        "date": "Jan 15, 2020"
+      },
+      {
+        "index": "25",
+        "name": "Brenda Nelson",
+        "action_title": "Bronze",
+        "activity": "+6412 points",
+        "date": "Jan 15, 2020"
+      },
+      {
+        "index": "26",
+        "name": "Zinedin Zidan",
+        "action_title": "Silver",
+        "activity": "+3112 points",
+        "date": "Jan 15, 2020"
       }
   ]
   },
