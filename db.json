@@ -41,55 +41,55 @@
       },
       {
         "index": "5",
-        "name": "Dennis Morris",
-        "action_title": "points",
-        "activity": "+37 points",
-        "date": "Dec 4, 2019"
-      },
-      {
-        "index": "6",
-        "name": "Allen Banks",
-        "action_title": "Bronze",
-        "activity": "+42 points",
-        "date": "Dec 4, 2019"
-      },
-      {
-        "index": "7",
-        "name": "Alan Wiley",
-        "action_title": "Gold",
-        "activity": "+55 points",
-        "date": "Dec 4, 2019"
-      },
-      {
-        "index": "23",
         "name": "Zinedin Zidan",
         "action_title": "15% discount",
         "activity": "+167 points",
         "date": "Jan 15, 2020"
       },
       {
-        "index": "24",
+        "index": "6",
+        "name": "Dennis Morris",
+        "action_title": "points",
+        "activity": "+37 points",
+        "date": "Dec 4, 2019"
+      },
+      {
+        "index": "7",
+        "name": "Allen Banks",
+        "action_title": "Discount",
+        "activity": "+42 points",
+        "date": "Dec 4, 2019"
+      },
+      {
+        "index": "8",
+        "name": "Alan Wiley",
+        "action_title": "Gold",
+        "activity": "+55 points",
+        "date": "Dec 4, 2019"
+      },
+      {
+        "index": "9",
         "name": "Rita Dickinson",
         "action_title": "10% discount",
         "activity": "+2550 points",
         "date": "Jan 15, 2020"
       },
       {
-        "index": "25",
+        "index": "10",
         "name": "Eva Scarborough",
         "action_title": "Gold",
         "activity": "+6722 points",
         "date": "Jan 15, 2020"
       },
       {
-        "index": "25",
+        "index": "11",
         "name": "Brenda Nelson",
         "action_title": "Bronze",
         "activity": "+6412 points",
         "date": "Jan 15, 2020"
       },
       {
-        "index": "26",
+        "index": "12",
         "name": "Zinedin Zidan",
         "action_title": "Silver",
         "activity": "+3112 points",
