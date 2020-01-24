@@ -129,17 +129,6 @@
         "actions": "Add to Cart"
       },
       {
-        "id": 4117022507069,
-        "bool": false,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
-        "data-handle": "handle some text",
-        "data-variant-id": "0",
-        "integer": 41,
-        "price": "$66.4297",
-        "product_title": "Judith Adcock",
-        "actions": "Add to Cart"
-      },
-      {
         "id": 4117022507070,
         "bool": true,
         "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
