@@ -34,28 +34,6 @@
         "price": "$64.2994",
         "product_title": "Marshall Stanton",
         "actions": "Add to Cart"
-      },
-      {
-        "id": 4117022507065,
-        "bool": false,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
-        "data-handle": "handle some text",
-        "data-variant-id": "0",
-        "integer": 23,
-        "price": "$15.4106",
-        "product_title": "Dorothy Hanna",
-        "actions": "Add to Cart"
-      },
-      {
-        "id": 4117022507066,
-        "bool": true,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
-        "data-handle": "handle some text",
-        "data-variant-id": "0",
-        "integer": 49,
-        "price": "$98.0668",
-        "product_title": "Kent Weeks",
-        "actions": "Add to Cart"
       }
     ]
   },
