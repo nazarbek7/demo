@@ -93,7 +93,7 @@
         "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
         "data_handle": "handle some text",
         "data_variant_id": "0",
-        "price": "$40.00,
+        "price": "$40.00",
         "product_title": "Jack Underwood",
         "actions": "Add to Cart"
       },
@@ -158,7 +158,7 @@
         "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
         "data_handle": "handle some text",
         "data_variant_id": "0",
-        "price": "$66.4297",
+        "price": "$66.47",
         "product_title": "Judith Adcock",
         "actions": "Add to Cart"
       },
