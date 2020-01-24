@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "activity1": {
+    "page": 1,
+    "activities": [
+      {
+        "index": "1",
+        "name": "Wesley Pittman",
+        "action_title": "Create account",
+        "activity": "+80 points",
+        "date": "Dec 4, 2019"
+      },
+      {
+        "index": "2",
+        "name": "Grace Hodge",
+        "action_title": "Bronze",
+        "activity": "+44 points",
+        "date": "Dec 4, 2019"
+      }
+    ]
+  },
+  "activity2": {
+    "page": 2,
+    "activities": [
+      {
+        "index": "1",
+        "name": "Wesley Pittman",
+        "action_title": "Create account",
+        "activity": "+80 points",
+        "date": "Dec 4, 2019"
+      },
+      {
+        "index": "2",
+        "name": "Grace Hodge",
+        "action_title": "Bronze",
+        "activity": "+44 points",
+        "date": "Dec 4, 2019"
+      },
+      {
+        "index": "3",
+        "name": "Bradley Mitchell",
+        "action_title": "Silver",
+        "activity": "+48 points",
+        "date": "Dec 4, 2019"
+      },
+      {
+        "index": "4",
+        "name": "Ernest Scarborough",
+        "action_title": "Gold",
+        "activity": "+41 points",
+        "date": "Dec 4, 2019"
+      }
+    ]
   }
 }
