@@ -56,39 +56,6 @@
         "price": "$98.0668",
         "product_title": "Kent Weeks",
         "actions": "Add to Cart"
-      },
-      {
-        "id": 4117022507067,
-        "bool": false,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
-        "data-handle": "handle some text",
-        "data-variant-id": "0",
-        "integer": 3,
-        "price": "$40.4614",
-        "product_title": "Jack Underwood",
-        "actions": "Add to Cart"
-      },
-      {
-        "id": 4117022507068,
-        "bool": false,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
-        "data-handle": "handle some text",
-        "data-variant-id": "0",
-        "integer": 44,
-        "price": "$56.3101",
-        "product_title": "Bradley Fink",
-        "actions": "Add to Cart"
-      },
-      {
-        "id": 4117022507069,
-        "bool": false,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
-        "data-handle": "handle some text",
-        "data-variant-id": "0",
-        "integer": 41,
-        "price": "$66.4297",
-        "product_title": "Judith Adcock",
-        "actions": "Add to Cart"
       }
     ]
   },
