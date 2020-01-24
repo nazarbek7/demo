@@ -99,48 +99,6 @@
         "product_title": "Kathy Hansen",
         "price": "лв34.9675",
         "actions": "Add to Cart"
-      },
-      {
-        "index": 15,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Shawn Norton",
-        "price": "лв15.693",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 16,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Vivian Wilkerson",
-        "price": "лв87.1015",
-        "actions": "Add to Cart"
-        },
-        {
-        "index": 17,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Joann Skinner",
-        "price": "лв46.284",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 18,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Denise Riley",
-        "price": "лв74.757",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 19,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Edna Pope",
-        "price": "лв24.9992",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 20,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Theodore Parsons",
-        "price": "лв49.3514",
-        "actions": "Add to Cart"
       }
     ]
   },
@@ -215,34 +173,6 @@
         "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
         "product_title": "Dean Rosenthal",
         "price": "лв39.9064",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 11,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Mark Pearce",
-        "price": "лв87.1016",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 12,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Jack Hawley",
-        "price": "лв26.4924",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 13,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Tim Tilley",
-        "price": "лв64.7948",
-        "actions": "Add to Cart"
-      },
-      {
-        "index": 14,
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/6_large.jpg?v=1569215736",
-        "product_title": "Kathy Hansen",
-        "price": "лв34.9675",
         "actions": "Add to Cart"
       },
       {
