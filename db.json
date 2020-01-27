@@ -45,7 +45,24 @@
         "price": "51.07",
         "title": "Lloyd Vaughn",
         "vendor": "Oakland Raiders",
-        "actions": "Add to Cart"
+        "variants": [
+          {
+            "id":31606487384117,
+            "price":"41.00",
+            "compare_price":null,
+            "grams":258,
+            "position":1,
+            "title":"Soft",
+            "inventory-policy":"deny",
+            "inventory-management":"shopify",
+            "inventory-quantity":14,
+            "updated-at":"2020-01-22T01:26:18-05:00",
+            "option1":"Soft",
+            "option2":null,
+            "option3":null,
+            "image_id":null
+          }
+        ]
       }
     ]
   },
@@ -65,7 +82,24 @@
         "title": "Claire Underwood",
         "vendor": "Oakland Raiders",
         "compare_price": null,
-        "actions": "Add to Cart"
+        "variants": [
+          {
+            "id":31606487384117,
+            "price":"41.00",
+            "compare_price":null,
+            "grams":258,
+            "position":1,
+            "title":"Soft",
+            "inventory-policy":"deny",
+            "inventory-management":"shopify",
+            "inventory-quantity":14,
+            "updated-at":"2020-01-22T01:26:18-05:00",
+            "option1":"Soft",
+            "option2":null,
+            "option3":null,
+            "image_id":null
+          }
+        ]
       },
       {
         "product_id": 4117022507064,
@@ -107,20 +141,6 @@
         "variant_id": "0",
         "price": "98.00",
         "title": "Kent Weeks",
-        "vendor": "Oakland Raiders",
-        "actions": "Add to Cart"
-      },
-      {
-        "product_id": 4117022507067,
-        "unavailable_options": "",
-        "date": "1579675172",
-        "favelist_id": "2",
-        "list_title": "Favorites",
-        "image_url": "https://cdn.shopify.com/s/files/1/0272/1218/5653/products/3.jpg?v=1569215725",
-        "handle": "handle some text",
-        "variant_id": "0",
-        "price": "40.00",
-        "title": "Jack Underwood",
         "vendor": "Oakland Raiders",
         "actions": "Add to Cart"
       },
