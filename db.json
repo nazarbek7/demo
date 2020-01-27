@@ -14,7 +14,22 @@
         "price": "89.16",
         "title": "Claire Underwood",
         "vendor": "Oakland Raiders",
-        "variants": "[{"id":30206673453109,"price":"25.00","compare_price":null,"grams":200,"position":1,"title":"Default Title","inventory-policy":"deny","inventory-management":null,"inventory-quantity":1,"updated-at":"2019-09-23T01:15:32-04:00","option1":"Default Title","option2":null,"option3":null,"image_id":null}]"
+        "variants": "[{
+          "id": 30206673453109,
+          "price":"25.00",
+          "compare_price":null,
+          "grams":200,
+          "position":1,
+          "title":"Default Title",
+          "inventory-policy":"deny",
+          "inventory-management":null,
+          "inventory-quantity":1,
+          "updated-at":"2019-09-23T01:15:32-04:00",
+          "option1":"Default Title",
+          "option2":null,
+          "option3":null,
+          "image_id":null
+        }]"
       },
       {
         "product_id": 4117022507063,
@@ -28,7 +43,22 @@
         "price": "51.07",
         "title": "Lloyd Vaughn",
         "vendor": "Oakland Raiders",
-        "variants": "[{"id":30206673453109,"price":"25.00","compare_price":null,"grams":200,"position":1,"title":"Default Title","inventory-policy":"deny","inventory-management":null,"inventory-quantity":1,"updated-at":"2019-09-23T01:15:32-04:00","option1":"Default Title","option2":null,"option3":null,"image_id":null}]"
+        "variants": "[{
+          "id": 30206673453109,
+          "price":"25.00",
+          "compare_price":null,
+          "grams":200,
+          "position":1,
+          "title":"Default Title",
+          "inventory-policy":"deny",
+          "inventory-management":null,
+          "inventory-quantity":1,
+          "updated-at":"2019-09-23T01:15:32-04:00",
+          "option1":"Default Title",
+          "option2":null,
+          "option3":null,
+          "image_id":null
+        }]"
       }
     ]
   },
@@ -77,6 +107,7 @@
         "price": "98.00",
         "title": "Kent Weeks",
         "vendor": "Oakland Raiders",
+        "compare_price": null,
         "variants": "[{"id":31606476931125,"price":"48.00","compare_price":null,"grams":0,"position":1,"title":"orchid","inventory-policy":"deny","inventory-management":"shopify","inventory-quantity":49,"updated-at":"2020-01-22T01:25:32-05:00","option1":"orchid","option2":null,"option3":null,"image_id":null}]"
       }
     ]
@@ -96,6 +127,7 @@
         "price": "51.75",
         "title": "Lloyd Vaughn",
         "vendor": "Oakland Raiders",
+        "compare_price": null,
         "actions": "Add to Cart"
       }
     ]
