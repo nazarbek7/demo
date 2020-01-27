@@ -1,6 +1,6 @@
 {
-  "wishlist1": {
-    "page": 1,
+  "wishlist2": {
+    "page": 2,
     "wishlists": [
       {
         "product_id": 4117022507062,
@@ -32,8 +32,8 @@
       }
     ]
   },
-  "wishlist2": {
-    "page": 2,
+  "wishlist3": {
+    "page": 3,
     "wishlists": [
       {
         "product_id": 4117022507062,
@@ -123,8 +123,8 @@
       }
     ]
   },
-  "wishlist3": {
-    "page": 3,
+  "wishlist4": {
+    "page":4,
     "wishlists": [
       {
         "product_id": 4117022507063,
