@@ -76,7 +76,8 @@
         "price": "51.20",
         "title": "Lloyd Vaughn",
         "vendor": "Oakland Raiders",
-        "actions": "Add to Cart"
+        "compare_price": null,
+        "variants": "[{"id":31606481584181,"price":"102.00","compare_price":null,"grams":386,"position":1,"title":"pink","inventory-policy":"deny","inventory-management":"shopify","inventory-quantity":18,"updated-at":"2020-01-22T01:25:53-05:00","option1":"pink","option2":null,"option3":null,"image_id":null},{"id":31606481616949,"price":"81.00","compare_price":null,"grams":131,"position":2,"title":"Frozen","inventory-policy":"deny","inventory-management":"shopify","inventory-quantity":5,"updated-at":"2020-01-22T01:25:53-05:00","option1":"Frozen","option2":null,"option3":null,"image_id":null},{"id":31606481649717,"price":"98.00","compare_price":null,"grams":138,"position":3,"title":"yellow","inventory-policy":"deny","inventory-management":"shopify","inventory-quantity":19,"updated-at":"2020-01-22T01:25:53-05:00","option1":"yellow","option2":null,"option3":null,"image_id":null}]"
       },
       {
         "product_id": 4117022507064,
@@ -90,7 +91,8 @@
         "price": "64.94",
         "title": "Marshall Stanton",
         "vendor": "Oakland Raiders",
-        "actions": "Add to Cart"
+        "compare_price": null,
+        "variants": "[{"id":31606481584181,"price":"102.00","compare_price":null,"grams":386,"position":1,"title":"pink","inventory-policy":"deny","inventory-management":"shopify","inventory-quantity":18,"updated-at":"2020-01-22T01:25:53-05:00","option1":"pink","option2":null,"option3":null,"image_id":null},{"id":31606481616949,"price":"81.00","compare_price":null,"grams":131,"position":2,"title":"Frozen","inventory-policy":"deny","inventory-management":"shopify","inventory-quantity":5,"updated-at":"2020-01-22T01:25:53-05:00","option1":"Frozen","option2":null,"option3":null,"image_id":null},{"id":31606481649717,"price":"98.00","compare_price":null,"grams":138,"position":3,"title":"yellow","inventory-policy":"deny","inventory-management":"shopify","inventory-quantity":19,"updated-at":"2020-01-22T01:25:53-05:00","option1":"yellow","option2":null,"option3":null,"image_id":null}]"
       },
       {
         "product_id": 4117022507065,
